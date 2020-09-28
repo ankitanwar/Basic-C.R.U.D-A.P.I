@@ -1,0 +1,2 @@
+-First Run create_table.py
+-then run app.py
